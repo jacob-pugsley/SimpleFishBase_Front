@@ -4,6 +4,9 @@ This is a search engine for <a href="https://fishbase.org">FishBase</a>, a scien
 
 <a href="https://github.com/jacob-pugsley/SimpleFishBase_Back">View back end repository</a>
 
+# Screenshots
+![Search results](/images/searchresults.png?raw=true)  &nbsp; ![Details](/images/details.png?raw=true)
+
 # Features
 <ul>
   <li>Search by taxonomy, common name, pH range, or temperature range</li>
