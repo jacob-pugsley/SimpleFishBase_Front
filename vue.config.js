@@ -15,5 +15,5 @@ module.exports = {
 		}
 	},
 	publicPath: process.env.NODE_ENV === 'production'
-		? '/SimpleFishBase_Front/'
+		? '/SimpleFishBase_Front/' : '/'
 }
