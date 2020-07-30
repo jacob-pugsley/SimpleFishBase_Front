@@ -91,7 +91,7 @@
 							
 				//structured url passed to the flask server
 				//let url = "http://localhost:5000/params=$"
-				let url = "http://raxmitax.pythonanywhere.com/params=$"
+				let url = "https://raxmitax.pythonanywhere.com/params=$"
 				/*
 				url = url + taxonomy + "$" + commonName + "$" + tempMin + "$" + tempMax + "$" + phMin + "$" + phMax
 				*/
