@@ -1,4 +1,6 @@
-# Simple FishBase (front end)
+# Simple FishBase (front end) (deprecated)
+
+#This repo is no longer maintained. The new version of the project can be found <a href="https://github.com/jacob-pugsley/fishbase-react">here</a>.
 
 This is a search engine for <a href="https://fishbase.org">FishBase</a>, a scientific database of fish species. The system was designed to be easier for aquarium owners to search than a research database, with an intuitive and simple interface and useful data. The front end uses Vue and Semantic UI.
 
